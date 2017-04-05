@@ -12,6 +12,5 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
-    "express-locale": "^1.0.1"
   }
 }
